@@ -1,0 +1,13 @@
+{
+  "itemGroup.tieredblocks": "Example Mod Tab",
+  "block.tieredblocks.example_block": "Example Block",
+  "item.tieredblocks.example_item": "Example Item",
+
+  "tieredblocks.configuration.title": "Tiered Blocks Configs",
+  "tieredblocks.configuration.section.tieredblocks.common.toml": "Tiered Blocks Configs",
+  "tieredblocks.configuration.section.tieredblocks.common.toml.title": "Tiered Blocks Configs",
+  "tieredblocks.configuration.items": "Item List",
+  "tieredblocks.configuration.logDirtBlock": "Log Dirt Block",
+  "tieredblocks.configuration.magicNumberIntroduction": "Magic Number Text",
+  "tieredblocks.configuration.magicNumber": "Magic Number"
+}
