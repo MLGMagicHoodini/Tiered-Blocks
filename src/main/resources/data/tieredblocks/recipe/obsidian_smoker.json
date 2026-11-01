@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " L ",
+    "LFL",
+    " L "
+  ],
+  "key": {
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "F": {
+      "item": "tieredblocks:obsidian_furnace"
+    }
+  },
+  "result": {
+    "id": "tieredblocks:obsidian_smoker",
+    "count": 1
+  }
+}

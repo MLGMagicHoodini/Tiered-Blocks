@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:copy_name",
+              "source": "block_entity"
+            }
+          ],
+          "name": "tieredblocks:copper_blast_furnace"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "tieredblocks:blocks/copper_blast_furnace"
+}

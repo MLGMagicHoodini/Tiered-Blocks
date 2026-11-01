@@ -1,0 +1,25 @@
+{
+  "values": [
+    "tieredblocks:copper_furnace",
+    "tieredblocks:iron_furnace",
+    "tieredblocks:gold_furnace",
+    "tieredblocks:emerald_furnace",
+    "tieredblocks:diamond_furnace",
+    "tieredblocks:obsidian_furnace",
+    "tieredblocks:netherite_furnace",
+    "tieredblocks:copper_blast_furnace",
+    "tieredblocks:iron_blast_furnace",
+    "tieredblocks:gold_blast_furnace",
+    "tieredblocks:emerald_blast_furnace",
+    "tieredblocks:diamond_blast_furnace",
+    "tieredblocks:obsidian_blast_furnace",
+    "tieredblocks:netherite_blast_furnace",
+    "tieredblocks:copper_smoker",
+    "tieredblocks:iron_smoker",
+    "tieredblocks:gold_smoker",
+    "tieredblocks:emerald_smoker",
+    "tieredblocks:diamond_smoker",
+    "tieredblocks:obsidian_smoker",
+    "tieredblocks:netherite_smoker"
+  ]
+}

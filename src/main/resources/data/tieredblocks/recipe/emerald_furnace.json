@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    "B B",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "id": "tieredblocks:emerald_furnace",
+    "count": 1
+  }
+}
